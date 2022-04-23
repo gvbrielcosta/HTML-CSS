@@ -1,0 +1,165 @@
+@charset "UTF-8"
+
+@import url('https://fonts.googleapis.com/css2?family=Akshar:wght@300;400;500;600;700&display=swap');
+
+*{
+    padding: 0px;
+    
+    
+}
+
+
+img {
+    width: 100%;
+}
+
+body{
+    text-align: justify;
+    background-color: rgb(235, 233, 166);
+}
+
+main{
+    padding: 2px 15px 0px 15px;
+    margin: -4px 80px -2px 80px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 1px 2px 20px rgba(0, 0, 0, 0.514);
+    letter-spacing: 1px;
+}
+
+section#main01 > h1{
+    font-family: 'Idroid';
+    
+    
+}
+
+section#main02 > h2{
+    font-family: 'Idroid';
+    font-size: 20px;
+    background-image: linear-gradient(to right, rgba(40, 179, 40, 0.589), white);
+    color: darkgreen;
+    padding: 4px;
+    
+    
+}
+
+section#main01 > p{
+    text-indent: 1.5em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+section#main02 > p{
+    text-indent: 1.5em;
+    font-family: Arial, Helvetica, sans-serif;
+} 
+
+section#top{
+    
+    padding: 39px;
+    color: white;
+    margin:-8px -8px -8px;
+    font-size: 2em;   
+}
+
+section#top > h1{
+
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-weight: 600;
+        text-shadow: 2px 2px black;
+        margin: -30px;
+        padding: 38px;
+        text-align: center;
+        
+}
+
+section#top > p{
+    text-shadow: 2px 2px black;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 19px;
+    margin: 10px;
+    
+}
+
+section#menu{
+    padding: 10px;
+    margin: 10px;
+    
+}
+header{
+    background-image: linear-gradient(to bottom, rgb(4, 117, 4), rgb(4, 99, 4));
+    margin: 10px -8px 10px -8px;
+    box-shadow: 0px 3px 4px 1px black;
+}
+
+    section#menu > a{
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        color: rgb(143, 241, 176);
+        padding: 8px;
+        text-decoration: none;
+        font-weight: bold;
+    }
+
+    section#menu > a:hover{
+        background-color: rgb(23, 41, 5);
+
+    }
+
+    section#main01{
+        padding: 5px;
+    }
+
+    section#main02{
+        padding: 5px;
+    }
+
+    section#main03{
+        padding: 5px;
+    }
+
+    section#main014{
+        padding: 5px;
+    }
+
+    section#main03 > h2{
+        font-family: 'Idroid';
+        font-size: 20px;
+        background-image: linear-gradient(to right, rgba(40, 179, 40, 0.589), white);
+        color: darkgreen;
+        padding: 4px;
+        
+        
+    }
+
+    section#main03 > p{
+        text-indent: 1.5em;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    img {
+        width: 100%;
+    }
+      
+      img:hover {
+        box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+      }
+
+      section#img03{
+        max-width:300px;
+        max-height:200px;
+        width: auto;
+        height: auto;
+        display: block;
+        margin: 0px auto;
+          
+      }
+
+      section#video01{
+        
+        background-color: green;
+        width: 900px;
+        margin: 25px 25px;
+        
+
+        
+      }
+  
